@@ -2,7 +2,7 @@
 
 <!--
 **p-medeiros/p-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+>Engenharia de computação<
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
