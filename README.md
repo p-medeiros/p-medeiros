@@ -6,3 +6,10 @@
 <a href="https://www.linkedin.com/in/pedromedeirosf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 
 </div>
+
+<br>
+<div style="display: inline_block" align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeirosf&show_icons=true&theme=tokyonight&count_private=true" style="margin-right: 5px;" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeirosf&theme=tokyonight&count_private=true&layout=compact"/>
+</div>
+<br/>
