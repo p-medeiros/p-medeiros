@@ -1,8 +1,5 @@
-<!-- Greatings message -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=4960F7&random=false&width=435&lines=Hello+World!+I+am+Pedro+Medeiros.;Majoring+in+Computer+Engineering.;Programmer+in+many+languages.;3D+Modeling+and+Printing+enthusiast.;Researching+CNN+applications+in+FPGA.;And+working+with+web+development.;A+little+bit+of+everything;All+of+the+time!)](https://git.io/typing-svg)
 
-<!-- Email, Linkedin and Thingiverse display -->
 <div align = "center">
 
 <a href = "mailto:pmfa2805@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,48 +7,10 @@
 <a href="https://www.thingiverse.com/p_medeiros07/designs" target="_blank"><img src="https://img.shields.io/badge/-Thingiverse-%2333AADD?style=for-the-badge&logo=thingiverse&logoColor=white" target="_blank"></a>
 
 </div>
-<!-- Github Stats -->
+
 <br>
 <div style="display: inline_block" align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeiros&show_icons=true&theme=tokyonight&count_private=true" style="margin-right: 5px;" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=tokyonight&count_private=true&layout=compact"/>
 </div>
 <br/>
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mouse Interaction</title>
-    <style>
-        body {
-            margin: 0;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #f0f0f0;
-            overflow: hidden;
-        }
-        .cursor {
-            position: absolute;
-            width: 20px;
-            height: 20px;
-            background-color: #3498db;
-            border-radius: 50%;
-            pointer-events: none;
-            transition: transform 0.1s ease;
-        }
-    </style>
-</head>
-<body>
-    <div class="cursor" id="cursor"></div>
-
-    <script>
-        const cursor = document.getElementById('cursor');
-
-        document.addEventListener('mousemove', (e) => {
-            cursor.style.transform = `translate(${e.clientX - 10}px, ${e.clientY - 10}px)`;
-        });
-    </script>
-
-</body>
