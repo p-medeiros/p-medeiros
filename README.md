@@ -14,3 +14,16 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=tokyonight&count_private=true&layout=compact"/>
 </div>
 <br/>
+
+<style>
+  .highlight:hover {
+    background-color: #e0f7fa;
+    color: #006064;
+    border-radius: 5px;
+    padding: 5px;
+  }
+</style>
+
+# Olá! 👋 Eu sou Pedro Medeiros
+
+<p class="highlight">Passe o mouse sobre este texto para ver o efeito de destaque.</p>
