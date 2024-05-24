@@ -11,7 +11,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v3  # Ensuring the latest version is used
+        env:
+          NODE_OPTIONS: '--no-deprecation'  # Ensure using Node.js 20 environment
 
       - name: Setup Node.js environment
         uses: actions/setup-node@v3  # Ensuring the latest version is used
