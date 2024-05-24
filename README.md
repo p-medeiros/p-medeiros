@@ -15,6 +15,7 @@
 </div>
 <br/>
 
+<div>
 <style>
   .highlight:hover {
     background-color: #e0f7fa;
@@ -27,3 +28,4 @@
 # Olá! 👋 Eu sou Pedro Medeiros
 
 <p class="highlight">Passe o mouse sobre este texto para ver o efeito de destaque.</p>
+</div>
