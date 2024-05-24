@@ -15,18 +15,18 @@
 <br>
 <div style="display: inline_block" align="center">
 <!-- GitHub Stats Card -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeiros&show_icons=true&theme=github_dark_private=true" style="margin-right: 5px;" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeiros&show_icons=true&theme=transparent&count_private=true" style="margin-right: 5px;" />
 <!-- Top Languages Card -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=github_dark_private=true&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=transparent&count_private=true&layout=compact"/>
  
 <!-- Repo Card -->
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=p-medeiros&repo=REPO_NAME&theme=github_dark&private=true" style="margin-right: 5px;" />-->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=p-medeiros&repo=REPO_NAME&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
 
 <!-- Gist Card -->
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=github_dark&private=true" style="margin-right: 5px;" />-->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
 
 <!-- WakaTime Card -->
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=github_dark&private=true" style="margin-right: 5px;" />-->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
 
 </div><br/>
 
