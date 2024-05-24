@@ -26,7 +26,7 @@
 <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
 
 <!-- WakaTime Card -->
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=transparent&count&private=true" style="margin-right: 5px;" />
 
 </div><br/>
 
