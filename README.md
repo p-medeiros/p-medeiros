@@ -14,10 +14,21 @@
 <!-- Github Stats -->
 <br>
 <div style="display: inline_block" align="center">
+<!-- GitHub Stats Card -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeiros&show_icons=true&theme=transparent_private=true" style="margin-right: 5px;" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=transparent=true&layout=compact"/>
-</div>
-<br/>
+<!-- Top Languages Card -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=transparent_private=true&layout=compact"/>
+ 
+<!-- Repo Card -->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=p-medeiros&repo=REPO_NAME&theme=transparent&private=true" style="margin-right: 5px;" />-->
+
+<!-- Gist Card -->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=transparent&private=true" style="margin-right: 5px;" />-->
+
+<!-- WakaTime Card -->
+<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=transparent&private=true" style="margin-right: 5px;" />-->
+
+</div><br/>
 
 <!-- GIF -->
 
