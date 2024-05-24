@@ -54,3 +54,5 @@
   <img align="center" alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div><br/>
+
+![Snake animation](https://github.com/p-medeiros/p-medeiros/blob/output/github-contribution-grid-snake.svg)
