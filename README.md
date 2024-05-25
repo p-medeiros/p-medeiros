@@ -4,13 +4,10 @@
 
 <!-- Email, Linkedin and Thingiverse display -->
 <div align = "center">
-
 <a href = "mailto:pmfa2805@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pedromedeirosf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://www.thingiverse.com/p_medeiros07/designs" target="_blank"><img src="https://img.shields.io/badge/-Thingiverse-%2333AADD?style=for-the-badge&logo=thingiverse&logoColor=white" target="_blank"></a>
-
 </div>
-
 <!-- Github Stats -->
 <br>
 <div style="display: inline_block" align="center">
@@ -26,13 +23,14 @@
 <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
 
 <!-- WakaTime Card -->
-<figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="width: 600px; height: auto;></embed></figure>
 
 </div><br/>
 
 <!-- GIF -->
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVvZDNiNzF5aW9vM3l0ODVmbGN0Z3owY2Mydm02bHFwa3RuN2F6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="30" hight = "40"><b> Skills</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVvZDNiNzF5aW9vM3l0ODVmbGN0Z3owY2Mydm02bHFwa3RuN2F6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width ="30" height = "40"><b> Skills</b>
 
 <br/>
 <!-- Technologies display -->
