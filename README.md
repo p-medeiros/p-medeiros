@@ -28,9 +28,7 @@
 <!-- WakaTime Card -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=p-medeiros&theme=transparent&count&private=true" style="margin-right: 5px;" />
 
-[![wakatime](https://wakatime.com/badge/user/3c2bac6d-9a67-4b89-b587-c95120607e68/project/a3b256f2-468d-4fcd-a449-e5cc643adc78.svg)](https://wakatime.com/badge/user/3c2bac6d-9a67-4b89-b587-c95120607e68/project/a3b256f2-468d-4fcd-a449-e5cc643adc78)
-
-[![wakatime](https://wakatime.com/badge/user/3c2bac6d-9a67-4b89-b587-c95120607e68/project/810f1e8a-640a-4cf8-88ef-69ad095930a3.svg)](https://wakatime.com/badge/user/3c2bac6d-9a67-4b89-b587-c95120607e68/project/810f1e8a-640a-4cf8-88ef-69ad095930a3)
+<figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg"></embed></figure>
 
 </div><br/>
 
