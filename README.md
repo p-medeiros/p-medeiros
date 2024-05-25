@@ -15,17 +15,11 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p-medeiros&show_icons=true&theme=transparent&count_private=true" style="margin-right: 5px;" />
 <!-- Top Languages Card -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-medeiros&theme=transparent&count_private=true&layout=compact"/>
-<!-- Repo Card -->
-<img height="150em" src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="margin-right: 5px;" />
 
-<!-- Gist Card -->
-<!--<img height="150em" src="https://github-readme-stats.vercel.app/api/gist?id=GIST_ID&theme=transparent&count&private=true" style="margin-right: 5px;" />-->
-
-<!-- WakaTime Card -->
-
-<!-- <figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="width: 600px; height: auto;></embed></figure> -->
-
-</div><br/>
+</div>
+<br/>
+<div align = "center">
+<img height="250em" src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="margin-right: 5px;" /></div>
 
 <!-- GIF -->
 
