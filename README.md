@@ -24,7 +24,7 @@
 
 <!-- WakaTime Card -->
 
-<figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="width: 600px; height: auto;></embed></figure>
+<!-- <figure><embed src="https://wakatime.com/share/@3c2bac6d-9a67-4b89-b587-c95120607e68/92125802-b2c8-4507-860b-e84504a45578.svg" style="width: 600px; height: auto;></embed></figure> -->
 
 </div><br/>
 
