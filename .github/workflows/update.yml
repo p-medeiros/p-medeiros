@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Update
 
 on:
   schedule: # execute every 12 hours
@@ -29,4 +29,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
