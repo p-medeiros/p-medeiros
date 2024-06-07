@@ -22,6 +22,10 @@ jobs:
           github_user_name: p-medeiros
           outputs: dist/github-contribution-grid-snake.svg
 
+      # Debugging step to list the contents of the dist directory
+      - name: List dist directory
+        run: ls -l dist
+
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
