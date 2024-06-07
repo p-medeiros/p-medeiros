@@ -45,3 +45,11 @@
   <img align="center" alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div><br/>
+
+<div>
+<!-- Technologies display -->
+<div style="display: inline_block" align="center">
+  <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img align="center" alt="fusion" src="https://img.shields.io/badge/Fusion_360-0064C4?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img align="center" alt="autocad" src="https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white" />
+</div><br/></div>
