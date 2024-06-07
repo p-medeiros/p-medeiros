@@ -54,7 +54,4 @@
   <img align="center" alt="autocad" src="https://img.shields.io/badge/AutoCAD-0076C0?style=for-the-badge&logo=autodesk&logoColor=white" />
 </div><br/></div>
 
-
- ![Snake animation](https://github.com/p-medeiros/p-medeiros/blob/output/github-snake.svg)
  ![Snake animation](https://github.com/p-medeiros/p-medeiros/blob/output/github-snake-dark.svg)
- ![Snake animation](https://github.com/p-medeiros/p-medeiros/blob/output/ocean.gif)
